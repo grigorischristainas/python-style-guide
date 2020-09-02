@@ -208,7 +208,7 @@ if (param1 == 0 and param2 == 0 and
     
     ...
 ```
-Exceptions to this rule include long URLs or pathnames (if it is possible put them in a seperate line).
+Exceptions to this rule include long URLs or pathnames (if it is possible put them in a separate line).
 
 ```python
 # you can find the documentation here:
