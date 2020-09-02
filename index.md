@@ -189,7 +189,7 @@ In case inline comments are used, they should start at least 2 spaces away from 
 
 ```python
 l = [1, 2, 3, 4]
-l = l[::-1]  # Reverse list element order
+l = l[::-1]  # Reverse the order of the elements in the list
 ```
 
 ## Line length
