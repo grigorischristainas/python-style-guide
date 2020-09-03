@@ -32,7 +32,9 @@
           <a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a>
         </p>
         {% endif %}
-
+        
+        <p><i> Last updated on {{ site.time | date: "%-d %B %Y"}} </i></p>
+        
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
